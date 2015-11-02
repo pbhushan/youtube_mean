@@ -38,7 +38,7 @@ app.use('/hello',function(req,res,next){
 
 
 //connect to MongoDb
-mongoose.connect('mongodb://localhost/movie_trailer');
+mongoose.connect('mongodb://127.0.0.1/movie_trailer');
 mongoose.connection.once('open',function(){
 
 	app.models = require('./models/index');
