@@ -4,7 +4,7 @@ What it does :<br>
 2. It allows all CRUD functionality i.e. ADD,DELETE,PUT,GET,POST.<br>
 3. You can watch the videos that is added to the list in the webpage itself.<br>
 
-How to Play with it :
+How to Play with it :<br>
 1. Pull it from github.<br>
 2. start your MongoDb.<br>
 3. go to server folder from command line and run<br>
